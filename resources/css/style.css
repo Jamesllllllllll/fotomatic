@@ -414,6 +414,7 @@ header .mobile {
 #quotes-section {
   background-color: #f3f3f3;
   display: flex;
+  justify-content: center;
 }
 
 #quotes-section .content {
