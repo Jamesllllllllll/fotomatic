@@ -102,7 +102,7 @@ header .mobile {
 }
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 660px) {
   header .desktop {
     display: none;
   }
